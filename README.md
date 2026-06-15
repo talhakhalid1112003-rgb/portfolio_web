@@ -1,4 +1,4 @@
-# Portfolio — Personal React + Vite Website
+# Portfolio: Personal React + Vite Website
 
 This repository is a personal portfolio website built with React and Vite. It showcases projects, skills, and contact information using a clean, responsive design powered by Tailwind CSS.
 
@@ -31,16 +31,16 @@ This repository is a personal portfolio website built with React and Vite. It sh
 
 ## Repo Structure
 
-- `index.html` — App entry
-- `package.json` — scripts & dependencies
-- `vite.config.js` — Vite config
-- `tailwind.config.js` — Tailwind config
+- `index.html` - App entry
+- `package.json` - scripts & dependencies
+- `vite.config.js` - Vite config
+- `tailwind.config.js` - Tailwind config
 - `src/`
-  - `main.jsx` — app bootstrap
-  - `App.jsx` — root component
-  - `App.css`, `index.css` — global styles
-  - `Component/` — UI components
-  - `assets/` — images and static assets
+  - `main.jsx` - app bootstrap
+  - `App.jsx` - root component
+  - `App.css`, `index.css` - global styles
+  - `Component/` - UI components
+  - `assets/` - images and static assets
 
 ## Run Locally
 
