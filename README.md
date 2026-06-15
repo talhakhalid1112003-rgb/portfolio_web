@@ -89,12 +89,3 @@ Add screenshots to `src/assets/` and reference them here to present the site in 
 
 Replace placeholder text, images, and links with your personal information. Add social/profile links in the `Navbar` or `Contact` component.
 
-## License & Contact
-
-All rights reserved. Add an `LICENSE` file if you want an open-source license.
-
-Contact: update the `Contact` section with your email and profile links.
-
----
-
-Updated: README tailored specifically to this portfolio project.
